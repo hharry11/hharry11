@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hharry11/hharry11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Harry 👋
 
-Here are some ideas to get you started:
+**I build AI agents and automation pipelines — mostly Python & TypeScript.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## About
+
+- 🤖 Deep in agentic AI — tinkering with [hermes-agent](https://github.com/NousResearch/hermes-agent) and my own automation experiments
+- ⚙️ I automate boring things until they stop existing
+- 🌱 Currently exploring: agent orchestration, eval pipelines, LLM tooling
+- 🧩 Open source when I can — small fixes count too
+- 💬 Ask me about Python automation, AI agents, or terminal setups
+
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hharry11&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hharry11&layout=compact&theme=github_dark&hide_border=true" alt="langs" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hharry11&theme=github-dark-blue&hide_border=true" alt="streak" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>⚡ powered by coffee and cron jobs</sub>
+</div>
