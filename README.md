@@ -35,7 +35,6 @@
 <br/>
 
 <img src="https://img.shields.io/github/followers/hharry11?style=for-the-badge&logo=github&labelColor=0d1117&color=1f6feb" alt="followers" />
-<img src="https://komarev.com/ghpvc/?username=hharry11&style=for-the-badge&color=1f6feb" alt="profile views" />
 
 </div>
 
