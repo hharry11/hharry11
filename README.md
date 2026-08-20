@@ -30,14 +30,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hharry11&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hharry11&layout=compact&theme=github_dark&hide_border=true" alt="langs" height="165" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hharry11&theme=github-dark-blue&hide_border=true" alt="streak" />
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/hharry11?style=for-the-badge&logo=github&labelColor=0d1117&color=1f6feb" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=hharry11&style=for-the-badge&color=1f6feb" alt="profile views" />
 
 </div>
 
----
+
 
 <div align="center">
 <sub>⚡ powered by coffee and cron jobs</sub>
